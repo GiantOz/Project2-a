@@ -1,2 +1,2 @@
-# Project2-a
+# Project2-b
 Smoothie project
